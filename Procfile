@@ -1,0 +1,1 @@
+web gunicorn dengue_prediction_api:app
